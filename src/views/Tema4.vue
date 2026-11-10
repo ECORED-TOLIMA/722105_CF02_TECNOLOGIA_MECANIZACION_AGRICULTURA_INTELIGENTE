@@ -313,35 +313,35 @@
               figure
                 img(src="@/assets/curso/temas/t4/img17.svg", alt="alt").img100
             .col
-              p.mb-0 Demanda de servicios: cantidad y frecuencia de solicitudes por tipo de labor y periodo.
+              p.mb-0 <b>Demanda de servicios</b>: cantidad y frecuencia de solicitudes por tipo de labor y periodo.
         .crd.crd--avatarHorizontal.py-3.mb-0
           .row.align-items-center
             .col-1
               figure
                 img(src="@/assets/curso/temas/t4/img18.svg", alt="alt").img100
             .col
-              p.mb-0 Comportamiento de los precios: variaciones de las tarifas propias y de las ofertas disponibles en el mercado.
+              p.mb-0 <b>Comportamiento de los precios</b>: variaciones de las tarifas propias y de las ofertas disponibles en el mercado.
         .crd.crd--avatarHorizontal.py-3.mb-0
           .row.align-items-center
             .col-1
               figure
                 img(src="@/assets/curso/temas/t4/img19.svg", alt="alt").img100
             .col
-              p.mb-0 Preferencias de los clientes: servicios más solicitados, condiciones de contratación y necesidades recurrentes.
+              p.mb-0 <b>Preferencias de los clientes</b>: servicios más solicitados, condiciones de contratación y necesidades recurrentes.
         .crd.crd--avatarHorizontal.py-3.mb-0
           .row.align-items-center
             .col-1
               figure
                 img(src="@/assets/curso/temas/t4/img20.svg", alt="alt").img100
             .col
-              p.mb-0 Costos operativos: cambios en el consumo de combustible, mantenimiento, mano de obra y desplazamiento de maquinaria.
+              p.mb-0 <b>Costos operativos</b>: cambios en el consumo de combustible, mantenimiento, mano de obra y desplazamiento de maquinaria.
         .crd.crd--avatarHorizontal.crd--last.py-3.mb-0
           .row.align-items-center
             .col-1
               figure
                 img(src="@/assets/curso/temas/t4/img21.svg", alt="alt").img100
             .col
-              p.mb-0 Resultados comerciales: cotizaciones aceptadas, clientes nuevos, contratación recurrente y servicios con mayor demanda.
+              p.mb-0 <b>Resultados comerciales</b>: cotizaciones aceptadas, clientes nuevos, contratación recurrente y servicios con mayor demanda.
     p El análisis de estos datos facilita la identificación de tendencias del mercado, entendidas como cambios o comportamientos que pueden influir en la demanda y en las condiciones de prestación de los servicios. Entre ellas se encuentran la incorporación de tecnologías de agricultura de precisión, la búsqueda de operaciones más eficientes, las variaciones en los costos de los insumos y la necesidad de adaptar las labores a las condiciones climáticas.
     p El reconocimiento de estas tendencias permite ajustar la oferta comercial y la organización de las operaciones según las necesidades del mercado. Para ello, es necesario evaluar la información disponible, determinar qué cambios son viables de acuerdo con los recursos de la empresa y verificar los resultados de las decisiones implementadas.
     p.mb-4 Algunas acciones de adaptación pueden ser:

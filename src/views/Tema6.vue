@@ -94,7 +94,7 @@
       .col.col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 20.
-          span Criterios para priorizar oportunidades de mejora
+          span Ejemplo de matriz de priorización de oportunidades de mejora
         .tabla-a.color-acento-contenido.mb-4
           table
             thead
@@ -443,19 +443,19 @@
           ul.lista-ul--color.lista-ul.mb-0
             li 
               i.fas.fa-seedling
-              p.mb-0 Cumplimiento de los objetivos: comprobar si las acciones permitieron alcanzar los resultados previstos.
+              p.mb-0 <b>Cumplimiento de los objetivos</b>: comprobar si las acciones permitieron alcanzar los resultados previstos.
             li 
               i.fas.fa-seedling
-              p.mb-0 Productividad: analizar los cambios en el rendimiento de la maquinaria, el tiempo de ejecución y la superficie trabajada.
+              p.mb-0 <b>Productividad</b>: analizar los cambios en el rendimiento de la maquinaria, el tiempo de ejecución y la superficie trabajada.
             li 
               i.fas.fa-seedling
-              p.mb-0 Costos operativos: verificar las variaciones en los gastos, el consumo de combustible y las pérdidas de insumos.
+              p.mb-0 <b>Costos operativos</b>: verificar las variaciones en los gastos, el consumo de combustible y las pérdidas de insumos.
             li 
               i.fas.fa-seedling
-              p.mb-0 Calidad de las labores: comprobar el cumplimiento de los parámetros técnicos y los requerimientos del cultivo.
+              p.mb-0 <b>Calidad de las labores</b>: comprobar el cumplimiento de los parámetros técnicos y los requerimientos del cultivo.
             li 
               i.fas.fa-seedling
-              p.mb-0 Uso de los recursos: determinar si la maquinaria, el personal, los insumos y el tiempo se aprovecharon adecuadamente.
+              p.mb-0 <b>Uso de los recursos</b>: determinar si la maquinaria, el personal, los insumos y el tiempo se aprovecharon adecuadamente.
     p.mb-4 La selección de los indicadores debe responder al propósito de cada acción. Por ejemplo, si se busca reducir los tiempos improductivos de la maquinaria, es necesario registrar las horas de inactividad antes y después de implementar los ajustes. Si el objetivo es disminuir el consumo de combustible, se debe comparar la cantidad utilizada por hectárea bajo condiciones de operación equivalentes.
     .row.justify-content-center.mb-4
       .col.col-12

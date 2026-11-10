@@ -495,7 +495,7 @@
       .col.col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Tipos de talento humano, funciones y responsabilidades
+          span Criterios para evaluar el desempeño del talento humano
         .tabla-a.color-acento-contenido
           table
             thead

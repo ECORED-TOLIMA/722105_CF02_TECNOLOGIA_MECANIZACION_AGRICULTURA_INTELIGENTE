@@ -281,7 +281,7 @@
                   .row.justify-content-center.my-0
                     .col-auto
                       .formula-box.d-flex.align-items-center.flex-wrap.justify-content-center.p-4
-                        span.fw-bold.me-2.text-dark P<sub>mo</sub> =
+                        span.fw-bold.me-2.text-dark P<sub>c</sub> =
                         .fraccion.text-center.mx-2
                           span.numerador.px-3.fw-bold Superficie trabajada (ha)
                           span.denominador.px-3.fw-bold Combustible consumido (L)
@@ -392,7 +392,8 @@
                   | La retroalimentación debe fundamentarse en datos verificables y orientarse a la búsqueda de soluciones. Asimismo, es importante realizar un seguimiento posterior para determinar si las acciones implementadas contribuyeron a mejorar los resultados.
       .py-3.py-md-4(titulo="C) Limitaciones de los indicadores")
         .px-4
-          .row.justify-content-center
+          p Aunque los indicadores facilitan la evaluación del desempeño, presentan algunas limitaciones que deben considerarse al interpretar los resultados:
+          .row.justify-content-center.align-items-center
             .col-lg-5.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/t3/img22.jpg', alt='')

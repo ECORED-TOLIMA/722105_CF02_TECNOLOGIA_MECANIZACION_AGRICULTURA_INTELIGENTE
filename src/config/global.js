@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Estructuración, validación y mejora de los servicios agrícolas mecanizados',
     Description:
-      'El componente formativo aborda la estructuración, validación y mejora de los servicios agrícolas mecanizados mediante la gestión del talento humano, la organización del programa de producción agropecuaria y el análisis de la productividad. Asimismo, comprende estrategias de mercadeo, herramientas para analizar y validar las actividades mecanizadas, e identificación de oportunidades de mejora orientadas a optimizar los recursos, los procesos y los resultados de la producción.',
+      'El componente formativo aborda la estructuración, validación y mejora de los servicios agrícolas mecanizados mediante la gestión del talento humano, la organización del programa de producción agropecuaria y el análisis de la productividad. Asimismo, comprende estrategias de mercadeo, herramientas para analizar y validar las actividades mecanizadas e identificación de oportunidades de mejora orientadas a optimizar los recursos, los procesos y los resultados de la producción.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [

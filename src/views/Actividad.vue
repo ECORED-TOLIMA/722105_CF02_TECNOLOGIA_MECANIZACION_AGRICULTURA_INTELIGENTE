@@ -697,7 +697,7 @@ export default {
               id: 'a',
               texto:
                 'Resolver un problema una vez y evitar nuevas evaluaciones.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
@@ -709,7 +709,7 @@ export default {
               id: 'c',
               texto:
                 'Evaluar resultados, aprender de la experiencia y ajustar los procesos cuando sea necesario.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'd',

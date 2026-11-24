@@ -37,7 +37,7 @@
           .row(numero="1" titulo="Revisar los indicadores de desempeño")
             .col-12.mb-4.mb-md-0
               p.mb-0 Comparar la productividad, los costos, el consumo de combustible y los tiempos de operación con las metas establecidas.
-          .row(numero="2" titulo="Examinar los registros ")
+          .row(numero="2" titulo="Examinar los registros operativos")
             .col-12.mb-4.mb-md-0
               p.mb-0 Consultar las bitácoras de maquinaria, los reportes de mantenimiento, los formatos de inspección y los informes de ejecución.
           .row(numero="3" titulo="Revisar las actividades en campo")
@@ -123,7 +123,7 @@
                 td.td-c01(data-aos="fade-down") 3
                 td.td-c01(data-aos="fade-down") 2
                 td.td-c01(data-aos="fade-down") 7
-        p.mb-0 Los valores son ilustrativos. La escala y los criterios deben definirse según las condiciones de la empresa. La puntuación orienta la priorización, pero no sustituye la evaluación de riesgos ni el análisis técnico.
+        p.mb-0 Los valores de la tabla son ilustrativos. La escala y los criterios deben definirse según las condiciones de la empresa. La puntuación orienta la priorización, pero no sustituye la evaluación de riesgos ni el análisis técnico.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
@@ -246,7 +246,7 @@
               tr
                 td(data-aos="fade-down") Verificación
                 td(data-aos="fade-down") Comparar el consumo antes y después de implementar las acciones, manteniendo condiciones de operación comparables y comprobando la calidad de la labor.
-    p El ejemplo es ilustrativo. Las acciones, los responsables y los plazos deben ajustarse a las condiciones de cada empresa y a las especificaciones técnicas de la maquinaria.
+    p El ejemplo presentado es ilustrativo. Las acciones, los responsables y los plazos deben ajustarse a las condiciones de cada empresa y a las especificaciones técnicas de la maquinaria.
     p En este caso, la corrección de las fallas mecánicas atiende una de las causas identificadas, mientras que los ajustes en la operación buscan mejorar el aprovechamiento del combustible. La comparación de los indicadores permitirá determinar si las medidas fueron efectivas. Si el consumo continúa por encima del valor esperado, será necesario revisar otras posibles causas, como las condiciones del suelo, los tiempos de espera o la organización de las jornadas.
     p.mb-0 El diseño de acciones correctivas y de mejora requiere, por tanto, relacionar cada problema con sus causas, las medidas propuestas, los responsables y los mecanismos de seguimiento. Esta articulación facilita la ejecución de las decisiones y permite comprobar si las intervenciones contribuyen al cumplimiento de los objetivos del programa de producción agropecuaria mecanizada.
     separador
@@ -263,7 +263,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta-c01")
           .row(titulo="Revisar el avance de las actividades")
             .col-12.mb-0.mb-md-0
-              p Comparar las labores programadas con las ejecutadas para identificar retrasos, incumplimientos y diferencias en los tiempos previstos
+              p Comparar las labores programadas con las ejecutadas para identificar retrasos, incumplimientos y diferencias en los tiempos previstos.
           .row(titulo="Analizar las causas de las desviaciones")
             .col-12.mb-0.mb-md-0
               p Determinar los factores que afectan la ejecución, como las condiciones del terreno, las fallas mecánicas, la disponibilidad de personal o la falta de insumos.
@@ -323,7 +323,7 @@
                       td.td-c01(data-aos="fade-down") Seguimiento
                       td.td-c01(data-aos="fade-down") Verificar el avance según la programación inicial.
                       td.td-c01(data-aos="fade-down") Evaluar las condiciones del lote 1 y establecer una nueva fecha de ejecución.
-              p.mb-0 El ejemplo es ilustrativo. La reprogramación debe considerar las condiciones del suelo, los requerimientos del cultivo y la disponibilidad de maquinaria y personal.
+              p.mb-0 El ejemplo descrito es ilustrativo. La reprogramación debe considerar las condiciones del suelo, los requerimientos del cultivo y la disponibilidad de maquinaria y personal.
     .row.justify-content-center.mb-4
       .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure

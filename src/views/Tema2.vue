@@ -654,7 +654,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t2/img41.svg' alt='AvatarTop')
           h4.text-center Asignación de recursos
-          p.text-center Identificar la maquinaria, los implementos, los insumos y el personal requeridos para cada labor
+          p.text-center Identificar la maquinaria, los implementos, los insumos y el personal requeridos para cada labor.
         .tarjeta.bg01.px-4.py-5
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
@@ -666,7 +666,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/t2/img43.svg' alt='AvatarTop')
           h4.text-center Asignación de responsabilidades
-          p.text-center Definir las funciones del personal encargado de ejecutar, coordinar y supervisar las actividades
+          p.text-center Definir las funciones del personal encargado de ejecutar, coordinar y supervisar las actividades.
         .tarjeta.bg01.px-4.py-5
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
